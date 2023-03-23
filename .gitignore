@@ -1,0 +1,7 @@
+# modules
+/node_modules
+
+# keys
+/foodapp/secrets.js
+
+/foodapp/utility/nodemailer.js
